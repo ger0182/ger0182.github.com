@@ -1,4 +1,4 @@
-# SOL語法
+# SQL語法
 
 ### 修改表格的欄位 - ALTER TABLE
 
